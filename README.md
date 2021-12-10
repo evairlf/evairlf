@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi there, thanks for acess!
 
 <!--
 **evairlf/evairlf** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,8 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-![alt text](https://github.com/evairlf/evairlf/blob/main/Biryani%20Regular%20(1).png)
-
-https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=evairlf)](https://github.com/anuraghazra/github-readme-stats)
+![alt text](https://github.com/evairlf/evairlf/blob/main/imagem_2021-12-10_161658.png)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=evairlf&layout=default&show_icons=true&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=evairlf&layout=default&theme=radical&hide=CSS,SCSS,HTML,Javascript)
 
