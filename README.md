@@ -14,6 +14,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+![alt text](https://github.com/evairlf/evairlf/blob/main/Biryani%20Regular%20(1).png)
+
 https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=evairlf)](https://github.com/anuraghazra/github-readme-stats)
 
